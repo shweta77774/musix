@@ -1,0 +1,27 @@
+body{
+    background-image: url("homepage 1.png");
+    background-size: 240 pixel;
+    text-align: center;
+    line-height: 1.6;
+}
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #e23d3d;
+    border-radius: 6px;
+    outline: none;
+    line-height: 1.6;
+}
+div {
+    text-align: center;
+    line-height: 1.6;
+   
+}
+div.a{
+    text-align: center;
+    line-height: 1.6;
+   
+}
